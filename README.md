@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey, I'm Tiffany Tseng 👋
+-------------------------------------------------------------------------------------------------------------------------------------------
+💬 About Me:
+I am a Software Engineer from New York 🗽
+
+🔭 I’m currently working on Internet Brands
+🌱 I’m currently learning Japanese
+
+🛠️ Languages and Tools:
+JavaScript  Python  CSS  HTML  React  Redux   Flask  Express  PostgreSQL  SQLite  NodeJS  SQLAlchemy  AWS 
 
 <!--
 **itingtseng/itingtseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
