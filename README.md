@@ -6,7 +6,7 @@
 <!--   <title>GitHub Profile</title> -->
 </head>
 <body>
-  <h1>Welcome to My GitHub Profile! 🚀</h1>
+  <h1>Welcome to Tiffany Tseng's GitHub Profile! 🚀</h1>
   <p>
     Hi there! I'm a software engineer passionate about coding and technology. Here's a bit about me:
   </p>
